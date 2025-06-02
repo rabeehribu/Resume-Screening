@@ -10,6 +10,8 @@ Hiring is broken. Recruiters are drowning in resumes, losing time, and missing g
 This isn’t about filtering resumes.
 This is about **finding the right people — faster, smarter, and without bias**.
 
+![Output](https://github.com/AdilShamim8/Resume-Screening/blob/main/image/Output.gif)
+
 ---
 
 ##  What It Does
