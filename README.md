@@ -72,7 +72,7 @@ Whether you're a coder, designer, or just someone passionate about solving real-
 
 ##  License
 
-MIT — because great tools should be free to build, break, and better.
+[MIT License](License) — because great tools should be free to build, break, and better.
 
 ---
 
